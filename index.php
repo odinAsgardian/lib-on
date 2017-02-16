@@ -3,8 +3,8 @@
 		<title>Lib-On</title>
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
-		<link rel="stylesheet" href="bootstrap-3.3.7-dist/css/bootstrap.min.css">
 		<link rel="stylesheet" href="css/lib.css">
+		<link rel="stylesheet" href="bootstrap-3.3.7-dist/css/bootstrap.min.css">
 		<script src="bootstrap-3.3.7-dist/js/bootstrap.min.js"></script>
 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
 	</head>
@@ -12,27 +12,20 @@
 		<div class="container-fluid">
 			<div class="row content">
 				<div class="col-sm-3 sidenav">
+					        <div class="col-md-1 text-center">
+					          <a href="#"><img src="img/genos-one-punch-man-ova-29.4.jpg" class="img-circle" height="65" width="65" alt="Genos"></a>
+					        </div>
 					<ul class="nav nav-pills nav-stacked">	
 						<div class="row">
-					        <div class="col-md-1 text-center">
-					          <img src="img/genos-one-punch-man-ova-29.4.jpg" class="img-circle" height="65" width="65" alt="Avatar">
-					        </div>
-					       </div><br>
-						<li class="active"><a href="#">Home</a></li>
-						<li><a href="#">Aluguel</a></li>
-						<li><a href="#">Renovação</a></li>
-						<li><a href="#">Cadastro</a></li>
-						<li><a href="#">Tabela de Alugados</a></li>
-					</ul><br>
-						<div class="input-group">
-							<input type="text" class="form-control" placeholder="Procure">
-							<span class="input-group-btn">
-								<button class="btn btn-default" type="button">
-									<span class="glyphicon glyphicon-search"></span>
-								</button>
-							</span>
-						</div>
+					    </div><br>
+							<li class="active"><a href="#">Home</a></li>
+							<li><a href="#">Aluguel</a></li>
+							<li><a href="#">Renovação</a></li>
+							<li><a href="#">Cadastro</a></li>
+							<li><a href="#">Tabela de Alugados</a></li>
+					</ul><br>				
 				</div>
+				
 
 				<div class="col-sm-9">
 					<h4><small>TAREFAS</small></h4>
