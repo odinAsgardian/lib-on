@@ -22,7 +22,7 @@
 							<li><a href="#">Aluguel</a></li>
 							<li><a href="#">Renovação</a></li>
 							<li><a href="#">Cadastro</a></li>
-							<li><a href="#">Tabela de Alugados</a></li>
+							<li><a href="list.php">Tabela de Alugados</a></li>
 					</ul><br>				
 				</div>
 				
