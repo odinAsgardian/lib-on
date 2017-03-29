@@ -50,7 +50,7 @@ INSERT INTO `aluno` (`MATRICULA`, `CURSO`, `PERIODO`, `TURNO`, `ID_LIVRO`, `NOME
 --
 
 CREATE TABLE `livro` (
-  `ID` varchar(255) NOT NULL,
+  `ID` varchar(12) NOT NULL,
   `TITULO` varchar(255) NOT NULL,
   `ISBN` varchar(255) NOT NULL,
   `AUTOR` varchar(255) NOT NULL

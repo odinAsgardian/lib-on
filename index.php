@@ -27,7 +27,7 @@
 				</div>
 				
 
-				<div class="col-sm-9">
+				<!-- <div class="col-sm-9">
 					<h4><small>TAREFAS</small></h4>
 					<hr>
 					<h2>I LOVE BOOKS</h2>
@@ -50,7 +50,7 @@
 
 
 			</div>
-		</div>
+		</div> -->
 
 		 
 	</body>
